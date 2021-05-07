@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Inventory_management_system_App"
